@@ -45,29 +45,9 @@ I'm a **Solutions Architect** who leverages a unique interdisciplinary backgroun
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=slightlyhappy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=9D4EDD&text_color=FFFFFF)](https://github.com/slightlyhappy/github-readme-stats)
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=slightlyhappy&theme=radical&hide_border=true&background=0D1117&ring=9D4EDD&fire=9D4EDD&currStreakLabel=9D4EDD" alt="streak stats" />
-</div>
-
----
-
-### 🐍 Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SlightlyHappy/slightlyhappy/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
----
-
 ### 💡 What Drives Me
 
-\`\`\`python
+\`\`\`
 class SolutionsArchitect:
     def __init__(self):
         self.name = "Rishabh"
