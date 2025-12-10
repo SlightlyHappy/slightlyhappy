@@ -64,10 +64,10 @@ I thrive on solving problems that *actually matter* - whether that's optimizing 
 </p>
 ---
 
-## 📈 Stats & Activity
+## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github.com/slightlyhappy/slightlyhappy/blob/main/github-metrics.svg" alt="Metrics" width="100%">
+  <img src="https://github.com/slightlyhappy/slightlyhappy/blob/output/github-contribution-grid-snake.svg" alt="snake" />
 </div>
 
 ---
