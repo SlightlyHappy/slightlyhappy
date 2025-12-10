@@ -16,7 +16,7 @@ My unique blend of expertise allows me to bridge the gap between technical imple
 
 ## 💡 What Drives Me
 
-I thrive on solving problems that *actually matter*—whether that's optimizing complex systems, understanding human behavior through data, or architecting solutions that scale. I'm a continuous learner who's taught myself to code and leverage technology to amplify problem-solving capabilities.
+I thrive on solving problems that *actually matter* - whether that's optimizing complex systems, understanding human behavior through data, or architecting solutions that scale. I'm a continuous learner who's taught myself to code and leverage technology to amplify problem-solving capabilities.
 
 ---
 
@@ -42,7 +42,7 @@ I thrive on solving problems that *actually matter*—whether that's optimizing 
 ## 📊 Featured Work
 
 <!-- Add your best projects here -->
-Projects coming soon...
+🐻 [www.bearsystems.in]   
 
 ---
 
