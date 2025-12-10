@@ -56,7 +56,7 @@ I thrive on solving problems that *actually matter* - whether that's optimizing 
 ## 📊 Featured Work
 
 <!-- Add your best projects here -->
-🐻 <a href="https://www.bearsystems.in">www.bearsystems.in</a> Bear Systems 
+🐻 <a href="https://www.bearsystems.in">Bear Systems</a> 
 
 ---
 
