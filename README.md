@@ -73,11 +73,7 @@ I thrive on solving problems that *actually matter* - whether that's optimizing 
 ## 📈 Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=slightlyhappy&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slightlyhappy&layout=compact&theme=dark&hide_border=true&bg_color=00000000" height="180" alt="languages graph"  />
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=slightlyhappy&theme=dark&hide_border=true&background=00000000" alt="streak graph" />
+  <img src="https://github.com/slightlyhappy/slightlyhappy/blob/main/github-metrics.svg" alt="Metrics" width="100%">
 </div>
 
 ---
