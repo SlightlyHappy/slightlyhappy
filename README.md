@@ -76,7 +76,6 @@ I thrive on **complex challenges** at the intersection of:
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-r-kankash/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![Bear Systems](https://img.shields.io/badge/🐻_Bear_Systems-Visit_Website-9D4EDD?style=for-the-badge)](https://www.bearsystems.in)
 
 </div>
@@ -89,6 +88,6 @@ I thrive on **complex challenges** at the intersection of:
 
 <div align="center">
   
-### ⭐ *Building bridges between human understanding and technological innovation* ⭐
+### ⭐ *Animum debes mutare, non caelum.* ⭐
 
 </div>
