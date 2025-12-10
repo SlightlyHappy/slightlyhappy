@@ -1,8 +1,8 @@
 <div align="center">
   
-# 👋 Welcome to My GitHub Universe
+# 👋 Welcome to My GitHub
 
-### I'm a **Solutions Architect** bridging Psychology, Neuroscience & Technology
+### I'm a **Learner** with a passion for Psychology, Neuroscience & Technology
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Self-taught+Developer+%7C+Problem+Solver;Psychology+%2B+Neuroscience+%2B+Data+Science;Building+Human-Centered+Tech+Solutions;MSc+HR+Performance+Management" alt="Typing SVG" />
 
@@ -21,7 +21,7 @@ I'm a **Solutions Architect** who leverages a unique interdisciplinary backgroun
 - 💻 **Self-taught Developer** passionate about elegant solutions
 - 🌟 Founder of **[Bear Systems](https://www.bearsystems.in)** 🐻
 
-> *"The best solutions emerge at the intersection of deep technical knowledge and human understanding."*
+> *"The best solutions are often found with active planning and iterations."*
 
 <br clear="both">
 
@@ -48,8 +48,7 @@ I'm a **Solutions Architect** who leverages a unique interdisciplinary backgroun
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=slightlyhappy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=9D4EDD&text_color=FFFFFF" height="170" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=slightlyhappy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=9D4EDD&text_color=FFFFFF" height="170" alt="languages" />
+  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=slightlyhappy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=9D4EDD&text_color=FFFFFF)](https://github.com/slightlyhappy/github-readme-stats)
 </div>
 
 <div align="center">
