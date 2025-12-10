@@ -1,4 +1,6 @@
-# Hi there 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+a+Solutions+Architect;Psychology+%26+Neuroscience+Background;Data+Science+Enthusiast;Self-taught+Developer" alt="Typing SVG" />
+</div>
 
 I'm a **Solutions Architect** with a passion for solving complex problems at the intersection of technology, human performance, and data-driven decision making.
 
@@ -33,9 +35,10 @@ I thrive on solving problems that *actually matter* - whether that's optimizing 
 - Data-driven decision making
 
 **Technical Skills**
-- Data science and analysis
-- Full-stack development
-- Tools & Languages: [Add your tech stack here]
+- Data science and analysis - my main forte
+- Machine Learning - always learning more
+- AI-powered Full-stack development
+- Tools & Languages: Python, HTML/CSS, SQL, GCP, Docker, JS, React, Node.js
 
 ---
 
@@ -53,7 +56,13 @@ I thrive on solving problems that *actually matter* - whether that's optimizing 
 
 ## 📈 Stats & Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=slightlyhappy&show_icons=true&theme=dark)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=slightlyhappy&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slightlyhappy&layout=compact&theme=dark&hide_border=true&bg_color=00000000" height="180" alt="languages graph"  />
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=slightlyhappy&theme=dark&hide_border=true&background=00000000" alt="streak graph" />
+</div>
 
 ---
 
