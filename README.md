@@ -47,7 +47,7 @@ I'm a **Solutions Architect** who leverages a unique interdisciplinary backgroun
 
 ### 💡 What Drives Me
 
-\`\`\`
+````python
 class SolutionsArchitect:
     def __init__(self):
         self.name = "Rishabh"
@@ -61,7 +61,7 @@ class SolutionsArchitect:
             "methodology": "Data-driven decisions",
             "outcome": "Scalable impact"
         }
-\`\`\`
+````
 
 I thrive on **complex challenges** at the intersection of:
 - 🧩 **System Architecture** - Designing scalable, elegant solutions
