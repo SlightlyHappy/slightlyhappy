@@ -1,6 +1,6 @@
 <div align="center">
   
-# í±‹ Welcome to My GitHub Universe
+# ğŸ‘‹ Welcome to My GitHub Universe
 
 ### I'm a **Solutions Architect** bridging Psychology, Neuroscience & Technology
 
@@ -10,16 +10,16 @@
 
 ---
 
-<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
 
-### í¾¯ About Me
+### ğŸ¯ About Me
 
 I'm a **Solutions Architect** who leverages a unique interdisciplinary background to build technology that truly serves people. 
 
-- í¾“ **MSc** in Human Resource & Performance Management
-- í·  **BSc** in Psychology, Neuroscience & Data Science  
-- í²» **Self-taught Developer** passionate about elegant solutions
-- í¼Ÿ Founder of **[Bear Systems](https://www.bearsystems.in)** í°»
+- ğŸ“ **MSc** in Human Resource & Performance Management
+- ğŸ§  **BSc** in Psychology, Neuroscience & Data Science  
+- ğŸ’» **Self-taught Developer** passionate about elegant solutions
+- ğŸŒŸ Founder of **[Bear Systems](https://www.bearsystems.in)** ğŸ»
 
 > *"The best solutions emerge at the intersection of deep technical knowledge and human understanding."*
 
@@ -27,7 +27,7 @@ I'm a **Solutions Architect** who leverages a unique interdisciplinary backgroun
 
 ---
 
-### í» ï¸ Tech Arsenal
+### ğŸ› ï¸ Tech Arsenal
 
 <div align="center">
 
@@ -45,7 +45,7 @@ I'm a **Solutions Architect** who leverages a unique interdisciplinary backgroun
 
 ---
 
-### í³Š GitHub Analytics
+### ğŸ“Š GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=slightlyhappy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=9D4EDD&text_color=FFFFFF" height="170" alt="stats" />
@@ -58,7 +58,7 @@ I'm a **Solutions Architect** who leverages a unique interdisciplinary backgroun
 
 ---
 
-### í° Contribution Graph
+### ğŸ Contribution Graph
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/SlightlyHappy/slightlyhappy/output/github-contribution-grid-snake.svg" alt="Snake animation" />
@@ -66,7 +66,7 @@ I'm a **Solutions Architect** who leverages a unique interdisciplinary backgroun
 
 ---
 
-### í²¡ What Drives Me
+### ğŸ’¡ What Drives Me
 
 \`\`\`python
 class SolutionsArchitect:
@@ -85,20 +85,20 @@ class SolutionsArchitect:
 \`\`\`
 
 I thrive on **complex challenges** at the intersection of:
-- í·© **System Architecture** - Designing scalable, elegant solutions
-- í·  **Human Behavior** - Understanding what drives performance
-- í³ˆ **Data Science** - Extracting insights that matter
-- íº€ **Innovation** - Building tech that amplifies human potential
+- ğŸ§© **System Architecture** - Designing scalable, elegant solutions
+- ğŸ§  **Human Behavior** - Understanding what drives performance
+- ğŸ“ˆ **Data Science** - Extracting insights that matter
+- ğŸš€ **Innovation** - Building tech that amplifies human potential
 
 ---
 
-### í¼ Let's Connect
+### ğŸŒ Let's Connect
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-r-kankash/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Bear Systems](https://img.shields.io/badge/í°»_Bear_Systems-Visit_Website-9D4EDD?style=for-the-badge)](https://www.bearsystems.in)
+[![Bear Systems](https://img.shields.io/badge/ğŸ»_Bear_Systems-Visit_Website-9D4EDD?style=for-the-badge)](https://www.bearsystems.in)
 
 </div>
 
