@@ -42,16 +42,13 @@ I thrive on solving problems that *actually matter* - whether that's optimizing 
 ## 📊 Featured Work
 
 <!-- Add your best projects here -->
-🐻 [www.bearsystems.in]   
+🐻 [www.bearsystems.in](Bear Systems) 
 
 ---
 
 ## 🌐 Let's Connect
 
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-
+- 💼 LinkedIn: [https://www.linkedin.com/in/rishabh-r-kankash/](For contact and professional connection)
 ---
 
 ## 📈 Stats & Activity
