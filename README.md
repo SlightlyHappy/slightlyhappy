@@ -1,96 +1,115 @@
 <div align="center">
   
-# üëã Hey there! I'm a Solutions Architect
+# Ì±ã Welcome to My GitHub Universe
 
-### *Bridging Psychology, Neuroscience & Technology*
+### I'm a **Solutions Architect** bridging Psychology, Neuroscience & Technology
 
-</div>
-
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=MSc+in+HR+%26+Performance+Management;BSc+in+Psychology+%26+Neuroscience;Self-Taught+Developer+%F0%9F%9A%80;Data+Science+Enthusiast+%F0%9F%93%8A;Problem+Solver+%F0%9F%A7%A9)](https://git.io/typing-svg)
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=slightlyhappy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=slightlyhappy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="languages graph"  />
-</div>
-
-<br/>
-
-<div align="center">
-
-### üõ†Ô∏è Tech Stack & Tools
-
-<img src="https://skillicons.dev/icons?i=python,js,react,nodejs,html,css,postgres,docker,gcp,git&theme=dark&perline=10" />
-
-</div>
-
-<div align="center">
-  
-### üì´ Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-r-kankash/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://www.bearsystems.in)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Self-taught+Developer+%7C+Problem+Solver;Psychology+%2B+Neuroscience+%2B+Data+Science;Building+Human-Centered+Tech+Solutions;MSc+HR+Performance+Management" alt="Typing SVG" />
 
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SlightlyHappy/slightlyhappy/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
+<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
 
+### ÌæØ About Me
 
+I'm a **Solutions Architect** who leverages a unique interdisciplinary background to build technology that truly serves people. 
 
----
-
-<br/>
-
-## üß† About Me
+- Ìæì **MSc** in Human Resource & Performance Management
+- Ì∑† **BSc** in Psychology, Neuroscience & Data Science  
+- Ì≤ª **Self-taught Developer** passionate about elegant solutions
+- Ìºü Founder of **[Bear Systems](https://www.bearsystems.in)** Ì∞ª
 
 > *"The best solutions emerge at the intersection of deep technical knowledge and human understanding."*
 
-I'm a **Solutions Architect** passionate about solving complex problems at the intersection of **technology**, **human performance**, and **data-driven decision making**.
+<br clear="both">
 
-üéì **Educational Background:**
-- **MSc** in Human Resource and Performance Management
-- **BSc** in Psychology, Neuroscience, and Data Science
-- **Self-taught Developer** with a knack for turning challenges into elegant solutions
+---
 
-üí° **What Drives Me:**
-
-I thrive on solving problems that *actually matter* - whether that's optimizing complex systems, understanding human behavior through data, or architecting solutions that scale. My unique blend of expertise allows me to bridge the gap between technical implementation and human-centered design, creating solutions that aren't just technically sound but also drive real organizational impact.
-
-<br/>
-
-## üöÄ Featured Projects
+### Ìª†Ô∏è Tech Arsenal
 
 <div align="center">
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| üêª **[Bear Systems](https://www.bearsystems.in)** | AI-powered solutions platform | Python, React, GCP |
-| üìä **Data Analysis Tools** | Custom analytics dashboards | Python, SQL, Visualization |
-| ü§ñ **ML Pipelines** | Automated machine learning workflows | Python, Docker, CI/CD |
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 </div>
 
-<br/>
+---
+
+### Ì≥ä GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=slightlyhappy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=9D4EDD&text_color=FFFFFF" height="170" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=slightlyhappy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=9D4EDD&text_color=FFFFFF" height="170" alt="languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=slightlyhappy&theme=radical&hide_border=true&background=0D1117&ring=9D4EDD&fire=9D4EDD&currStreakLabel=9D4EDD" alt="streak stats" />
+</div>
+
+---
+
+### Ì∞ç Contribution Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SlightlyHappy/slightlyhappy/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+### Ì≤° What Drives Me
+
+\`\`\`python
+class SolutionsArchitect:
+    def __init__(self):
+        self.name = "Rishabh"
+        self.role = "Solutions Architect"
+        self.passions = ["Human Performance", "Data Science", "System Design"]
+        self.mantra = "Solve problems that actually matter"
+    
+    def build_solutions(self):
+        return {
+            "approach": "Human-centered design",
+            "methodology": "Data-driven decisions",
+            "outcome": "Scalable impact"
+        }
+\`\`\`
+
+I thrive on **complex challenges** at the intersection of:
+- Ì∑© **System Architecture** - Designing scalable, elegant solutions
+- Ì∑† **Human Behavior** - Understanding what drives performance
+- Ì≥à **Data Science** - Extracting insights that matter
+- Ì∫Ä **Innovation** - Building tech that amplifies human potential
+
+---
+
+### Ìºê Let's Connect
 
 <div align="center">
 
-### üìä This Week's Coding Stats
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-r-kankash/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Bear Systems](https://img.shields.io/badge/Ì∞ª_Bear_Systems-Visit_Website-9D4EDD?style=for-the-badge)](https://www.bearsystems.in)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=slightlyhappy&style=for-the-badge&color=blueviolet" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=slightlyhappy&color=9D4EDD&style=for-the-badge&label=Profile+Views" alt="profile views" />
+</div>
+
+<div align="center">
+  
+### ‚≠ê *Building bridges between human understanding and technological innovation* ‚≠ê
+
 </div>
